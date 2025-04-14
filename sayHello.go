@@ -1,5 +1,5 @@
 package goMod
 
-func sayHello() string{
+func SayHello() string{
 	return "sayHello"
 }
