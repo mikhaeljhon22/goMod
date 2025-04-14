@@ -1,4 +1,4 @@
-package main 
+package goMod
 
 func sayHello() string{
 	return "sayHello"
